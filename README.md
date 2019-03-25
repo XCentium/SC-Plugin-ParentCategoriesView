@@ -4,7 +4,7 @@ Sitecore Commerce Plugin to extend SellablItem with Parent Categories View
 Out of the Box BizFx displays Category-SellableItem association in Category View. 
 And you'd need to paginate through the unsorted Grid to find your sellableItem is in the list and disassociate it.
 This plugin extends SellableItem EntityView in Bizfx with ParentCategories ChildView.
-This childview that would list all SellableItem parent categories and allow to disassociate it from one or many parents.
+This childview would list all SellableItem parent categories and allow to disassociate it from one or many parents.
 
 Sponsor
 =======
