@@ -16,6 +16,8 @@ How to Install
 
 1-	Copy the plugin to your Sitecore Commerce Engine Solution and add it as a project.  
 2-	Add it as a dependency to your Sitecore.Commerce.Engine project.  
+3-  Find 'Sitecore.Commerce.Plugin.EntityVersions.EntityVersionsActionsPolicy' in 'PlugIn.Versioning.PolicySet-1.0.0.json' and add      'DisassociateItemFromCategory' to 'AllowedActions'.  
+4-  Re-Bootstrap.
 
 How to Use
 ==============
