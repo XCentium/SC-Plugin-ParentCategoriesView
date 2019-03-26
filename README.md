@@ -46,6 +46,8 @@ How to Use
 Go to BizFx(Business Tools) and open any SellableItem. 
 You should see a Parent Category child view.
 
+![Parent Categories](https://github.com/XCentium/SC-Plugin-ParentCategoriesView/blob/master/Images/ParentCategoriesView.png)
+
 Note:
 =====
 
